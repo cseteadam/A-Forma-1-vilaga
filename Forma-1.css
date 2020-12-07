@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.Ferrari{
+    background-color: red;
+}
+
+.Mercedes{
+    background-color: slategrey;
+}
+
+.RedBull{
+    background-color: blue;
+} 
+
+.Racing{
+    background-color: pink;
+}
+
+.McLaren{
+    background-color: orange;
+}
+
+.Haas{
+    background-color: rgb(214, 228, 236);
+}
+
+.Williams{
+    background-color: rgb(0, 210, 255);
+}
+
+.Renault{
+    background-color: rgb(150, 148, 19);
+}
+
+.AlphaTauri{
+    background-color: darkblue;
+}
+
+.Alfa{
+    background-color: darkred;
+}
