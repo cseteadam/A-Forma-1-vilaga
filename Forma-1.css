@@ -1,7 +1,8 @@
 body{
     background-color: black;
-    color: white;
-    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    font-family: 'Arial Black', Courier, monospace;
+    background-image: url(F1-uj-logo.jpg);
 }
 
 .Ferrari{
@@ -42,4 +43,16 @@ body{
 
 .Alfa{
     background-color: darkred;
+}
+
+table tr:nth-child(2) {
+    background-color: gold;
+}
+
+table tr:nth-child(3) {
+    background-color: silver;
+}
+
+table tr:nth-child(4) {
+    background-color: indianred;
 }
