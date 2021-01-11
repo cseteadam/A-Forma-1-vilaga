@@ -1,58 +1,78 @@
 body{
     background-color: black;
-    color: black;
+    color: white;
     font-family: 'Arial Black', Courier, monospace;
     background-image: url(F1-uj-logo.jpg);
+    background-repeat: repeat-y;
+    background-position: left;
+    background-size: 100px;
 }
 
 .Ferrari{
-    background-color: red;
+    color: red;
 }
 
 .Mercedes{
-    background-color: slategrey;
+    color: slategrey;
 }
 
 .RedBull{
-    background-color: blue;
+    color: blue;
 } 
 
 .Racing{
-    background-color: pink;
+    color: pink;
 }
 
 .McLaren{
-    background-color: orange;
+    color: orange;
 }
 
 .Haas{
-    background-color: rgb(214, 228, 236);
+    color: rgb(214, 228, 236);
 }
 
 .Williams{
-    background-color: rgb(0, 210, 255);
+    color: rgb(0, 210, 255);
 }
 
 .Renault{
-    background-color: rgb(150, 148, 19);
+    color: rgb(150, 148, 19);
 }
 
 .AlphaTauri{
-    background-color: darkblue;
+    color: darkblue;
 }
 
 .Alfa{
-    background-color: darkred;
+    color: darkred;
 }
 
-table tr:nth-child(2) {
+.table1 tr:nth-child(2) {
     background-color: gold;
 }
 
-table tr:nth-child(3) {
+.table1 tr:nth-child(3) {
     background-color: silver;
 }
 
-table tr:nth-child(4) {
+.table1 tr:nth-child(4) {
     background-color: indianred;
 }
+
+h1{
+    font-style: italic;
+    margin-left: 100px;
+}
+
+p{
+    font-style: italic;
+    font-weight: bold;
+    margin-left: 100px;
+}
+
+table,.table1,p,h2,li{
+    margin-left: 100px;
+}
+
+
