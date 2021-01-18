@@ -1,11 +1,11 @@
 body{
-    background-color: black;
+    background-color: rgb(77, 35, 38);
     color: white;
     font-family: 'Arial Black', Courier, monospace;
     background-image: url(F1-uj-logo.jpg);
     background-repeat: repeat-y;
     background-position: left;
-    background-size: 100px;
+    background-size: 100px; 
 }
 
 .Ferrari{
@@ -63,6 +63,7 @@ body{
 h1{
     font-style: italic;
     margin-left: 100px;
+    text-align: center;
 }
 
 p{
@@ -71,8 +72,15 @@ p{
     margin-left: 100px;
 }
 
-table,.table1,p,h2,li{
+table,.table1,p,h3,li,h2{
     margin-left: 100px;
 }
 
 
+.hivatkozas{
+    color: rgb(0, 210, 255);
+}
+
+h2,h3{
+    font-style: italic;
+}
