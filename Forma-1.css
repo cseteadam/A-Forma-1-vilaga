@@ -62,7 +62,7 @@ body{
 
 h1{
     font-style: italic;
-    margin-left: 100px;
+    margin-bottom: 75px;
     text-align: center;
 }
 
@@ -83,4 +83,21 @@ table,.table1,p,h3,li,h2{
 
 h2,h3{
     font-style: italic;
+}
+
+#igazitas{
+    text-align: center;
+}
+
+.auto{
+   float: right;
+   width: 600px;
+   height: 300px;
+}
+
+#auto71{
+    float: left;
+    height: 600px;
+    width: 250px;
+    margin-left: 100px;
 }
