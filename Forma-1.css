@@ -98,6 +98,18 @@ h2,h3{
 #auto71{
     float: left;
     height: 600px;
-    width: 250px;
+    width: 255px;
     margin-left: 100px;
+}
+
+.evo{
+    float: right;
+}
+
+.drivers{
+    float: right;
+}
+
+#podium{
+    float: right;
 }
