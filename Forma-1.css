@@ -20,34 +20,42 @@ body{
 
 .RedBull{
     color: blue;
+    list-style-image: url(Red-Bull-Racing-Logo.png);
 } 
 
 .Racing{
     color: pink;
+    list-style-image: url(Racing-point.png);
 }
 
 .McLaren{
     color: orange;
+    list-style-image: url(Mclaren-logo.png);
 }
 
 .Haas{
     color: rgb(214, 228, 236);
+    list-style-image: url(Haas-logo.jpg);
 }
 
 .Williams{
     color: rgb(0, 210, 255);
+    list-style-image: url(williams-logo.png);
 }
 
 .Renault{
     color: rgb(150, 148, 19);
+    list-style-image: url(renault-logo.png);
 }
 
 .AlphaTauri{
     color: darkblue;
+    list-style-image: url(alpha-logo.jpg);
 }
 
 .Alfa{
     color: darkred;
+    list-style-image: url(alfa-logo.jpg);
 }
 
 .table1 tr:nth-child(2) {
@@ -114,4 +122,8 @@ h2,h3{
 
 #podium{
     float: right;
+}
+
+#cars{
+    margin-left: 100px;
 }
