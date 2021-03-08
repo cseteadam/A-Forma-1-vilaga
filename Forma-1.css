@@ -1,59 +1,59 @@
-body{
+body {
     background-color: rgb(77, 35, 38);
     color: white;
     font-family: 'Arial Black', Courier, monospace;
     background-image: url(F1-uj-logo.jpg);
     background-repeat: repeat-y;
     background-position: left;
-    background-size: 100px; 
+    background-size: 100px;
 }
 
-.Ferrari{
+.Ferrari {
     color: red;
-    list-style-image:url(ferrari-logo.jpg)
+    list-style-image: url(ferrari-logo.jpg)
 }
 
-.Mercedes{
+.Mercedes {
     color: slategrey;
     list-style-image: url(mercedes-logo.jpg);
 }
 
-.RedBull{
+.RedBull {
     color: blue;
     list-style-image: url(Red-Bull-Racing-Logo.png);
-} 
+}
 
-.Racing{
+.Racing {
     color: pink;
     list-style-image: url(Racing-point.png);
 }
 
-.McLaren{
+.McLaren {
     color: orange;
     list-style-image: url(Mclaren-logo.png);
 }
 
-.Haas{
+.Haas {
     color: rgb(214, 228, 236);
     list-style-image: url(Haas-logo.jpg);
 }
 
-.Williams{
+.Williams {
     color: rgb(0, 210, 255);
     list-style-image: url(williams-logo.png);
 }
 
-.Renault{
+.Renault {
     color: rgb(150, 148, 19);
     list-style-image: url(renault-logo.png);
 }
 
-.AlphaTauri{
+.AlphaTauri {
     color: darkblue;
     list-style-image: url(alpha-logo.jpg);
 }
 
-.Alfa{
+.Alfa {
     color: darkred;
     list-style-image: url(alfa-logo.jpg);
 }
@@ -70,60 +70,66 @@ body{
     background-color: indianred;
 }
 
-h1{
+h1 {
     font-style: italic;
     margin-bottom: 75px;
     text-align: center;
 }
 
-p{
+p {
     font-style: italic;
     font-weight: bold;
     margin-left: 100px;
 }
 
-table,.table1,p,h3,li,h2{
+table,
+.table1,
+p,
+h3,
+li,
+h2 {
     margin-left: 100px;
 }
 
 
-.hivatkozas{
+.hivatkozas {
     color: rgb(0, 210, 255);
 }
 
-h2,h3{
+h2,
+h3 {
     font-style: italic;
 }
 
-#igazitas{
+#igazitas {
     text-align: center;
 }
 
-.auto{
-   float: right;
-   width: 600px;
-   height: 300px;
+.auto {
+    float: right;
+    width: 600px;
+    height: 300px;
 }
 
-#auto71{
+#auto71 {
     float: left;
     height: 600px;
     width: 255px;
     margin-left: 100px;
 }
 
-.evo{
+.evo {
     float: right;
 }
 
-.drivers{
+.drivers {
     float: right;
 }
 
-#podium{
+#podium {
     float: right;
 }
 
-#cars{
+#cars {
     margin-left: 100px;
 }
